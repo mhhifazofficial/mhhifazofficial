@@ -1,7 +1,6 @@
 <a href="mhhifazofficial.github.io/profile"><img width="100%" height="auto" src="https://i.imgur.com/T8lRKox.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hifaz
-    Can't expound me!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hifaz </n>Can't expound me!
 </h1>
 <h3 align="center"></h3>
 
