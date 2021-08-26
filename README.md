@@ -7,11 +7,10 @@
 <br/>
 <br/>
 
-- 📧 Contact via **mhhifazofficial@gmail.com**
-
 ## 📱 Follow and connect with me!
 <p align="left">
 
+- 📧 Contact via **mhhifazofficial@gmail.com**
 <a href = "https://www.facebook.com/mhhifazofficial"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/mhhifazofficial"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mhhifazofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
