@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- 📧 Conatct via **mhhifazofficial@gmail.com**
+- 📧 Contact via **mhhifazofficial@gmail.com**
 
 ## 📱 Follow and connect with me!
 <p align="left">
