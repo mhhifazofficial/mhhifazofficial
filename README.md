@@ -4,9 +4,6 @@
 </h1>
 <h3 align="center"></h3>
 
-<br/>
-<br/>
-
 ## 📱 Follow and connect with me!
 
 - 📧 Contact via **mhhifazofficial@gmail.com**
