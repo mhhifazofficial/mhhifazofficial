@@ -14,8 +14,6 @@
 <a href = "https://www.youtube.com/channel/UC_pTx4c4j_kLI2-dHXDWOjQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## 🙂 Profile views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mhhifazofficial">
     </a>
