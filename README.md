@@ -1,6 +1,6 @@
 <a href="mhhifazofficial.github.io/profile"><img width="100%" height="auto" src="https://i.imgur.com/T8lRKox.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://tenor.com/bKQSx.gif" width="30px">, I'm Hifaz
+<h1 align="center">Hi, I'm Hifaz
 </h1>
 
 ## 📱 Follow and connect with me!
