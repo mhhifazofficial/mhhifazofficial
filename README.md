@@ -1,5 +1,4 @@
-<a href="*"><img src="https://imgur.com/a/6yhZ6EJ" alt="Ⓒ 2022. HifazMH" border="0" align=centre /></a>
-
+<img src = https://ibb.co/2h3LLLp align = center></img>
 <h1 align="center">Hey! Welcome to my vault.
 </h1>
 
