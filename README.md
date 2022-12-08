@@ -1,4 +1,4 @@
-<a href="mhhifazofficial.github.io/profile"><img width="100%" height="auto" src="https://ibb.co/2h3LLLp" height="175px"/></a>
+<a href="mhhifazofficial.github.io/profile"><img src="https://ibb.co/2h3LLLp"></img></a>
 
 <h1 align="center">Hey! Welcome to my vault.
 </h1>
