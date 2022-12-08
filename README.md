@@ -1,5 +1,5 @@
-<h2 align="center"><img src="https://img.icons8.com/fluency/48/null/bmo.png"> Hey! Welcome to my vault.
-</h2>
+<h1 align="center"><img src="https://img.icons8.com/fluency/48/null/bmo.png"> Hey! Welcome to my vault.
+</h1>
 
 <p align="center">
     <a href = "https://www.facebook.com/hifazmh/"><img src="https://img.icons8.com/fluency/48/null/facebook-circled.png"/></a>
