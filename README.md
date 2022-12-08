@@ -1,4 +1,4 @@
-<a href="https://ibb.co/2h3LLLp"><img src="https://i.ibb.co/2h3LLLp/Clipart.png" alt="Clipart" border="0" /></a>
+<a href="https://ibb.co/2h3LLLp"><img src="https://i.ibb.co/qjY4442/Clipart.png" alt="Clipart" border="0" /></a>
 
 <h1 align="center">Hey! Welcome to my vault.
 </h1>
