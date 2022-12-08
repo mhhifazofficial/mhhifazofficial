@@ -1,4 +1,4 @@
-<img src = https://ibb.co/2h3LLLp align = center></img>
+<a href = https://ibb.co/2h3LLLp img src = https://ibb.co/2h3LLLp align = center></img>
 <h1 align="center">Hey! Welcome to my vault.
 </h1>
 
